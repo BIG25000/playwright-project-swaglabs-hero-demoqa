@@ -1,4 +1,4 @@
-# Playwright Mini Project - Swag Labs / Hero / DemoQA
+# Playwright Project - Swag Labs / Hero / DemoQA
 
 This repository is a mini Playwright project for my QA Automation portfolio.  
 It contains UI test scripts for **Swag Labs**, **The Internet (Hero)** and **DemoQA**.
